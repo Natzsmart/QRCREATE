@@ -29,15 +29,11 @@ This is the first milestone in your project. You must complete this before movin
 
 You are expected to do the following: 
 
-Documentation 
-Design Sketch 
-GitHub Repo with read.me content 
-Data Schema
-mood boards
-
-
-
-
+- Documentation 
+- Design Sketch 
+- GitHub Repo with read.me content 
+- Data Schema
+- mood boards
 
 
 ## Documentation
