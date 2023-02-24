@@ -25,7 +25,7 @@ QrCreate
 
 
 ## Project Requirements:
-This is the first milestone in your project. You must complete this before moving to the second milestone. 
+In this project. You must complete this before moving to the next phase. 
 
 You are expected to do the following: 
 
