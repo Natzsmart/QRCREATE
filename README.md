@@ -5,7 +5,7 @@
 A platform that allows users generate QR code that specifically does something when scanned. 
 
 ### Project Name:
-qr_gen
+QrCreate
 
 #### Feature Requests
 
@@ -40,6 +40,6 @@ You are expected to do the following:
 
 [Documentation](https://googledrive.com)
 
-## #team-sparrowpp
+## #team-QrCreate
 
 
