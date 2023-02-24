@@ -38,7 +38,7 @@ You are expected to do the following:
 
 ## Documentation
 
-[Documentation](https://googledrive.com)
+[Documentation](https://docs.google.com/document/d/1Hi_cCW9T99a0ZnNAjc6pdE0AgVCQjYGBIjjTbnJNUfc/)
 
 ## #team-QrCreate
 
