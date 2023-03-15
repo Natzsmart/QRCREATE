@@ -1,11 +1,10 @@
 
-# Documentation, Design Sketch
 
 ## Introduction
 A platform that allows users generate QR code that specifically does something when scanned. 
 
 ### Project Name:
-QrCreate
+## QRCREATE
 
 #### Feature Requests
 
@@ -19,27 +18,13 @@ QrCreate
     User: Authenticated
 
 - Full access to the platform
-- Allow setting on what should happen when qr is scanned - give at least 2 options
-- Allow user to download (allow png, jped and pdf download format), or share code by email or social media
+- Allow setting on what should happen when qr is scanned
 - Allow user save data and come back to it. 
-
-
-## Project Requirements:
-In this project. You must complete this before moving to the next phase. 
-
-You are expected to do the following: 
-
-- Documentation 
-- Design Sketch 
-- GitHub Repo with read.me content 
-- Data Schema
-- mood boards
-
 
 ## Documentation
 
 [Documentation](https://docs.google.com/document/d/1Hi_cCW9T99a0ZnNAjc6pdE0AgVCQjYGBIjjTbnJNUfc/)
 
-## #team-QrCreate
-
-
+## Authors
+- Iniobong Effiong
+- Abdulkarim Ibrahim Aminu
